@@ -51,6 +51,8 @@ core_users = [
 3. Use **Add User** / **Remove User** to adjust the list for this session.
 4. Click **RUN CLEANUP** — you will be prompted for confirmation before any deletions occur.
 5. Optionally log off when prompted after cleanup completes.
+<img width="421" height="449" alt="image" src="https://github.com/user-attachments/assets/4c0d70ca-a4eb-4d18-bd13-deb888c78cb1" />
+<img width="418" height="445" alt="image" src="https://github.com/user-attachments/assets/39c05a2b-a252-4e97-97e7-b3fb6eb127e2" />
 
 > **Warning:** This tool permanently deletes user profile folders and registry entries. Always verify the protected list before running cleanup.
 

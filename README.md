@@ -1,7 +1,9 @@
 # User Profile Cleaner
 
 A Windows GUI tool for IT administrators to bulk-delete stale user profiles from school/lab computers. Requires administrator privileges.
+
 <img width="421" height="449" alt="image" src="https://github.com/user-attachments/assets/4c0d70ca-a4eb-4d18-bd13-deb888c78cb1" />
+
 ## Features
 
 - Lists all protected (preserved) user accounts in a GUI
